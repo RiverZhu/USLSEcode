@@ -3,7 +3,7 @@
 % Q. Zhang, J. Zhu*, F. Qu and D. W. Soh, Line Spectral Estimation via Unlimited Sampling,
 % IEEE Transactions on Aerospace and Electronic Systems, 2024 
 % This code is written by Qi Zhang and Jiang Zhu. If you have any problems, please feel free to contact
-% jiangzhu16@zji.edu.cn.
+% jiangzhu16@zju.edu.cn.
 
 clear variables;
 rng(123)
