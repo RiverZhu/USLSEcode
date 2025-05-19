@@ -1,3 +1,4 @@
+% Note: If you apply the bandpass filtering operation to make the noise bandlimited such that the outband of the noise is negiliable, the USLSE is robust to the noise and works even when the time domain SNR<=0 dB.
 % Demo for the USLSE algorithm for bandlimited signals via unlimited sampling
 % For details, refer to the paper
 % Q. Zhang, J. Zhu*, F. Qu and D. W. Soh, Line Spectral Estimation via Unlimited Sampling,
